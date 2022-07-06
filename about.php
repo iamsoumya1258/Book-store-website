@@ -33,7 +33,7 @@ if(!isset($user_id)){
 
 <div class="heading">
    <h3>about us</h3>
-   <p> <a href="home.php">home</a> / about </p>
+   <p> <a href="home.php">Home</a> / about </p>
 </div>
 
 <section class="about">
@@ -63,20 +63,20 @@ if(!isset($user_id)){
 
       <div class="box">
          <img src="images/pic-1.png" alt="">
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt ad, quo labore fugiat nam accusamus quia. Ducimus repudiandae dolore placeat.</p>
+         <p>The book came in a few days which was faster than anywhere else said theirs would and it came just as described. I will be buying from them again. I can't attest for ebooks, but their textbooks come quickly and they are cheap.</p>
          <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
-            <i class="fas fa-star-half-alt"></i>
+            <i class="fas fa-star"></i>
          </div>
-         <h3>john White</h3>
+         <h3>John White</h3>
       </div>
 
       <div class="box">
          <img src="images/pic-2.png" alt="">
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt ad, quo labore fugiat nam accusamus quia. Ducimus repudiandae dolore placeat.</p>
+         <p>I loved the service. It was fast, it was awesome, I could see where my books were being sent, and I got them in no time at all. I will definitely keep coming back because my worries were over as soon as I received my books.Go for it</p>
          <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
@@ -89,46 +89,47 @@ if(!isset($user_id)){
 
       <div class="box">
          <img src="images/pic-3.png" alt="">
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt ad, quo labore fugiat nam accusamus quia. Ducimus repudiandae dolore placeat.</p>
+         <p>Just amazing. The delivery is too fast. I got my book in the cheapest price.They are quick to purchase many of your textbooks and I received my check in less than a month. I recommend them highly.</p>
          <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
-            <i class="fas fa-star-half-alt"></i>
+            <i class="far fa-star"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>Sanket Swayam</h3>
       </div>
 
       <div class="box">
          <img src="images/pic-4.png" alt="">
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt ad, quo labore fugiat nam accusamus quia. Ducimus repudiandae dolore placeat.</p>
+         <p>I was desperate for a book. I ordered it yesterday and it came TODAY! Customer service was perfect and the book was in mint condition. Thank you thank you. Absolutly satisfied.</p>
          <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
+            
          </div>
-         <h3>john deo</h3>
+         <h3>Geeta Agrawal</h3>
       </div>
 
       <div class="box">
          <img src="images/pic-5.png" alt="">
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt ad, quo labore fugiat nam accusamus quia. Ducimus repudiandae dolore placeat.</p>
+         <p>The best website i came across. Wide range of books with cheap price. The delivery service was just wow. Thank you The Booktown.Had a great experience with you</p>
          <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
-            <i class="fas fa-star-half-alt"></i>
+            <i class="far fa-star"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>Varun Sharma</h3>
       </div>
 
       <div class="box">
          <img src="images/pic-6.png" alt="">
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt ad, quo labore fugiat nam accusamus quia. Ducimus repudiandae dolore placeat.</p>
+         <p>Its great to get my ordered book within two days. The delivery was too good.It was nicely packed too. well Recomended.Will order again.Thanks for such service.</p>
          <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
@@ -136,7 +137,7 @@ if(!isset($user_id)){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>Richa S</h3>
       </div>
 
    </div>
